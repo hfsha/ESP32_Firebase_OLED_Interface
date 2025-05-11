@@ -8,8 +8,8 @@
 
 // Constants
 #define EEPROM_SIZE 100
-#define FIREBASE_AUTH "AIzaSyDQZ_kzHvIKiT8wL_pGUdfLWC0lYQVNNZQ"
-#define FIREBASE_URL "https://esp-project-569ce-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define FIREBASE_AUTH "YOUR-API-KEY"
+#define FIREBASE_URL "https://your-project-id.firebaseio.com/"
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
 #define CONFIG_BUTTON 0
@@ -470,8 +470,8 @@ void setupFirebase() {
   
 config.api_key = FIREBASE_AUTH;
 config.database_url = FIREBASE_URL;
-auth.user.email = "hfshahidatul@gmail.com";
-auth.user.password = "hfshahidatul123";
+auth.user.email = "YOUR-EMAIL";
+auth.user.password = "YOUR-PASSWORD";
 Firebase.begin(&config, &auth);
 Firebase.reconnectWiFi(true);
 
