@@ -31,12 +31,12 @@ This project aims to showcase the integration of **ESP32**, **Firebase**, and **
 
 ---
 
-## ✨ **Firebase Web App Demo**
+## 🌐 **Firebase Web App Demo**
 ![Image](https://github.com/user-attachments/assets/7096684d-f373-453f-b4ff-a9b3d88f8bbe)
 
 ---
 
-## ✨ **ESP32 Configuration Web Interface**
+## 🖥️ **ESP32 Configuration Web Interface**
 ![Image](https://github.com/user-attachments/assets/1592db3d-aba8-4ed0-b926-03b6a4331552)
 
 ![Image](https://github.com/user-attachments/assets/87b99f82-b645-4f40-a6d9-2aabfdac0340)
