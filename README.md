@@ -1,4 +1,4 @@
-# 🌟 **ESP32 Firebase Wi-Fi Configuration & OLED Display** 🌟
+# 🌟 **ESP32 Firebase Wi-Fi Configuration & OLED** 🌟
 
 Welcome to the **ESP32 Firebase Wi-Fi Configuration & OLED Display** project! This project demonstrates how to connect the **ESP32** to a Wi-Fi network, store credentials in **EEPROM**, fetch real-time data from **Firebase**, and display it on an **OLED screen**.
 
