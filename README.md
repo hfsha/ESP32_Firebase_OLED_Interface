@@ -37,7 +37,7 @@ This project aims to showcase the integration of **ESP32**, **Firebase**, and **
 ---
 
 
-## 📟 **Oled display**
+## 📟 **OLED display**
 ![Image](https://github.com/user-attachments/assets/13642ea6-d47d-4b7c-80d9-86e8f7e2c2be)
 
 ---
